@@ -5,13 +5,15 @@ It contains two parts:
 2. Drawing/Writing on the Virtual Drawing Board
 
 **Optimising the Color Range:**
-- When the virtualpen.py is run, the first pop shows two feeds:
-i. One with the Original Video Feed
-ii. One with the Mask showing only the region according to the adjustments of HSV values
+- When the virtualpen.py is run, the first pop up shows two feeds:
+i. The Original Video Feed
+ii. The Mask showing only the region according to the adjustments of HSV values
 
-- Try getting only the marker in the as the white patch. To achieve this, vary only H values initially, and then S and V values
+- Try getting only the marker as the white patch. To achieve this, vary only H values initially, and then S and V values
 
 **Drawing/Writing** 
 - Once the marker patch hsv values are chosen, click enter (or esc). 
 - The Drawing sheet will appear. 
 - Moving the marker will draw the required shapes or text.
+- Press C to clear the board
+- Press esc to exit the program
