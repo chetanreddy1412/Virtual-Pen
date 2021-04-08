@@ -15,5 +15,6 @@ ii. The Mask showing only the region according to the adjustments of HSV values
 - Once the marker patch hsv values are chosen, click enter (or esc). 
 - The Drawing sheet will appear. 
 - Moving the marker will draw the required shapes or text.
-- Press C to clear the board
+- Press **C** (clear) to clear the board
+- Press **H** (hold) to not draw anything
 - Press esc to exit the program
