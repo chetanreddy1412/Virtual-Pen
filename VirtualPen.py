@@ -55,7 +55,6 @@ def get_pen_hsv_val():
         k = cv2.waitKey(1)
         if save == 1:
             print([lower,upper])
-            np.save('pen_hsv_val',[lower,upper])
             break
         if k == 27 or k == 13:
             break
