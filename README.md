@@ -21,4 +21,4 @@ ii. The Mask showing only the region according to the adjustments of HSV values
 - Press esc to exit the program
 
 **Demo Pic**
-!https://github.com/chetanreddy1412/Virtual-Pen/blob/main/Virtual%20Pen.jpeg
+![Virtual Pen]main/Virtual%Pen.jpeg
