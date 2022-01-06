@@ -19,3 +19,6 @@ ii. The Mask showing only the region according to the adjustments of HSV values
 - Press **C** (clear) to clear the board
 - Press **H** (hold) to not draw anything
 - Press esc to exit the program
+
+**Demo Pic**
+!https://github.com/chetanreddy1412/Virtual-Pen/blob/main/Virtual%20Pen.jpeg
